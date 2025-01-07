@@ -1,6 +1,4 @@
 
-In the project directory, 
-
 ### `npm start`
 
 Runs the app in the development mode.\
